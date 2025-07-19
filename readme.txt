@@ -1,7 +1,10 @@
 NoName Tickets V1 - Quick Start
 
 Project Info:
-Advanced Discord Ticket Bot
+Advanced Discord Ticket Bot made for one of our customers
+
+Credits:
+https://discordlookup.com/user/1364146935975378985
 
 ========================
 Commands
