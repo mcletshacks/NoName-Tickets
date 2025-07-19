@@ -1,5 +1,7 @@
 NoName Tickets V1 - Quick Start
 
+Advanced Discord Ticket Bot
+
 ========================
 Commands
 ========================
