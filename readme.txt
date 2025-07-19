@@ -1,5 +1,6 @@
 NoName Tickets V1 - Quick Start
 
+Project Info:
 Advanced Discord Ticket Bot
 
 ========================
