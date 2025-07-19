@@ -1,0 +1,21 @@
+{
+  "token": "MTM5MDgwMjYzNUI9w44NAFoiweiftg4euhtet0ietj0i5",
+
+  "channels": {
+    "logs": "1396038950413402142",
+    "transcripts": "1396038877818392586"
+  },
+
+  "roles": {
+    "support-role": "1396035429408571532",
+    "media-rejected": "1396055045325459466",
+    "media-accepted": "1396054938685280356"
+  },
+
+  "categories": {
+    "Support": "1396038450783715450",
+    "Purchase": "1396038352922480660",
+    "Media": "1396038108667056209",
+    "Other": "1396039652560867359"
+  }
+}

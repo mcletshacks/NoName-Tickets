@@ -1,0 +1,21 @@
+{
+  "token": "",
+
+  "channels": {
+    "logs": "",
+    "transcripts": ""
+  },
+
+  "roles": {
+    "support-role": "",
+    "media-rejected": "",
+    "media-accepted": ""
+  },
+
+  "categories": {
+    "Support": "",
+    "Purchase": "",
+    "Media": "",
+    "Other": ""
+  }
+}
