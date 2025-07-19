@@ -5,6 +5,7 @@ Advanced Discord Ticket Bot made for one of our customers
 
 Credits:
 https://discordlookup.com/user/1364146935975378985
+https://guns.lol/mcletshacks
 
 ========================
 Commands
